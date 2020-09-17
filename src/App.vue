@@ -141,8 +141,10 @@ html{
 
 * [GitHub](https://github.com/OctoberToEscape)
 * [详细简历](https://octobertoescape.github.io/resume/dist/index.html#/)
+* [vue总结](https://github.com/OctoberToEscape/vue-notes)
+* [javaScript总结](https://github.com/OctoberToEscape/CodeWarehouse)
 
-> 如果你喜欢这份简历，可以关注[我的GitHub](https://github.com/OctoberToEscape)，并且可以通过我的邮箱he960301@163.com
+> 如果你喜欢这份简历，可以关注[我的GitHub](https://github.com/OctoberToEscape)，并且可以通过我的邮箱he960301@163.com联系我。
 
 `,
         };
