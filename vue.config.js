@@ -3,7 +3,7 @@ module.exports = {
     outputDir: "dist",
     assetsDir: "static",
     lintOnSave: false,
-    publicPath: "/",
+    publicPath: "./",
     configureWebpack: () => {
         return {
             devtool: "source-map",
