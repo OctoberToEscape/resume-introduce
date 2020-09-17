@@ -16,7 +16,7 @@ export default {
     components: { StyleEditor, ResumeEditor },
     data() {
         return {
-            interval: 1,
+            interval: 20,
             currentStyle: "",
             enableHtml: false,
             fullStyle: [
